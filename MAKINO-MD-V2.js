@@ -268,7 +268,7 @@ module.exports = Subzero = async (Subzero, m, chatUpdate, store) => {
       "externalAdReply": {
       "showAdAttribution": true,
       "containsAutoReply": true,
-      "title": `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+      "title": `♻️ eco-bot ♻️`,
       "body": `Pay Fees Easily.`,
       "previewType": "PHOTO",
       "thumbnailUrl": ``,
@@ -458,7 +458,7 @@ module.exports = Subzero = async (Subzero, m, chatUpdate, store) => {
       // ㅤㅤ〄ㅤㅤ〘 Subzero Personal Edition 〙ㅤㅤ〄ㅤㅤㅤㅤ
       // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
 
-      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = '〄 Subzero-md-v2 has been alive since ' + uptimeFormatted;
+      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = '☃️Subzero-md-v2 has been alive since ' + uptimeFormatted;
 
       Subzero.setStatus(status); // Set the status using Subzero.setStatus or your equivalent method
 
@@ -739,17 +739,66 @@ Typed *surrender* to surrender and admited defeat`
       reply(responses[smallinput]);
     }*/
    const responses = {
-owner: `Hey ${pushname},
-> My owner is Mr Frank, a member of *ZEROCODERS SOCIETY*.
+pay:`Hello *${pushname},* Choose one of the following options to pay.\n\n1. Ecocash
+2. Onemoney
+3. Bank\n𝙉.𝘽  To choose an option just reply with number.
+\nFor example 1 for ecocash`,
 
-> You can reach him here: wa.me/263719647303`,
-about: `*SUBZERO-MD-V3 is a bot created by ZeroCoders to take your whatsapp to another  exciting level for more visit mucheri-inc.vercel.app`,
-listmenu: `Mᴇɴᴜ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ....*`,
+//ecocash//
+  1:`Hello ${pushname},  you have chosen 𝙀𝙘𝙤𝙘𝙖𝙨𝙝\n\nTo pay withh ecocash enter you account number
+𝙚.𝙜 263719647301`,
+263719647301:`${pushname}, Enter the amount in USD. 
+𝙀.𝙜 100`,
+100: `${pushname},  your 𝙀𝙘𝙤𝙘𝙖𝙨𝙝 Transcation was successful.\n\nYour receipt code is :\n𝗜.𝗗 746721e ( Copy it ) \n
+Please terminate session by taping 𝙚𝙭𝙞𝙩`,
+   exit: `Hey ${pushname}, all sessions have been terminated. 
+How can i help you?`,
+
+//onemoney//
+  2:`To pay with Onemoney enter you account number
+𝙚.𝙜 263719647302`,
+263719647302:`${pushname}, 
+Enter the amount in USD. 
+𝙀.𝙜 120`,
+120: `${pushname}, your 𝙊𝙣𝙚𝙢𝙤𝙣𝙚𝙮 Transcation successful.\n\nYour receipt code is :\n\n𝗜.𝗗 282777B40 copy it\nPlease terminate session by taping 𝙚𝙭𝙞𝙩.`,
+//onemoney//
 
 
+
+//bank//
+3:`To pay with bank please enter your card number`,
+1234567891234567:`Welcome Darrell M, \nplease enter your password to with draw cash`,
+2007:`${pushname},Enter the amount in USD. 
+𝙀.𝙜 130`,
+   130:`${pushname}, Transcation successful.\nPlease terminate session by taping 𝙚𝙭𝙞𝙩.`,
+   //baNk//
+   
+ check:`Enter student name`,
+ crejinai:`Enter student surname`,
+   makanyisa:`Enter student class`,
+  41:`Crejinai has not paid yet!`,
+   portal:`Enter name of candidate`,
+   darrell:`Enter candidate surname`,
+   mucheri:`Enter student gender`,
+   male:`Maths A\n Physics A\n Chemistry \nComputer Science`,
+   female:`Candidate with supplied details not found`,
+   about:`𝗘𝗰𝗼𝗕𝗼𝘁 is a whatsapp bot developed by Darrell Mucheri & Crejinai Makanyisa to pay school fees online.It uses advanced algorithms to come to a conclusion.\n\n
+For more info visit here: mucheri-inc.vercel.app or
+wa.me/263719647303`,
+   
+
+	   
+  hi: `Hello ${pushname}, I am 𝗘𝗰𝗼𝗕𝗼𝘁. Type !𝗺𝗲𝗻𝘂 to see some functions, Otherwise How can I help you?`,
   Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
-  mrfrank: `Darrell My creator is lost in Anime World, and I lost connection with him...`,
-  darrell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
+
+	
+  hello: `Hello ${pushname}, I am 𝗘𝗰𝗼𝗕𝗼𝘁. I can pay fees, check whether student has paid fees & check Results.
+  
+
+ For more info type !𝗺𝗲𝗻𝘂.`,
+  Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
+  mrfrrank: `Darrell My creator is lost in Anime World, and I lost connection with him...`,
+  darrrell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   //ping: `Hey ${pushname}, Pong ${latensie.toFixed(4)} ms`,
@@ -765,13 +814,13 @@ listmenu: `Mᴇɴᴜ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴅᴇᴠᴇʟᴏ�
 	     'maths': `mathematics is it`,
 	     'geo': `geo it iss`,
 	     'acc': `accounts is it`,
-   
+   OWNER: `wa.me/263719647303`,
 	credit: `Hi ${pushname}, welcome to the credit payment system.\n\n To continue choose one of the options:\nSignup\nLogin`,   
 	   signup: `*SIGNUP*\n\n Please student name to continue`,
 	   mcdonald: `Please enter McDonald's surname`,
 	   muchatuta: `McDonald Muchatuta please enter your ID number`,
 6312345: `New successfully created. Please login to continue`,
-	   login: `Please enter your username`, 
+	   login: `Please enter your username`,
 
 	   
 	   
@@ -867,7 +916,7 @@ const smallinput = budy.toLowerCase();
           await Subzero.sendMessage(from, { react: { text: "❤", key: m.key } });
 
           let { data } = await axios.get('https://api.github.com/repos/MrFr3nk/MAKINO-MD-V2');
-          let teks = `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: github.com/anonphoenix007/MAKINO-MD-V2\n\nDon't forget to follow me on *GitHub* and give a ⭐️ to my projects.`;
+          let teks = `♻️ eco-bot ♻️*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: github.com/anonphoenix007/MAKINO-MD-V2\n\nDon't forget to follow me on *GitHub* and give a ⭐️ to my projects.`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
             viewOnceMessage: {
@@ -885,7 +934,7 @@ const smallinput = budy.toLowerCase();
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     title: "©Subzero➮Mᴀᴋɪɴᴏ2024",
-                    subtitle: "♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️",
+                    subtitle: "♻️ eco-bot ♻️",
                     hasMediaAttachment: false
                   }),
                   nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
@@ -1042,7 +1091,7 @@ case 'tovv': {
         getServerIp()
           .then(serverIp => {
             if (serverIp) {
-              const message = `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ server address is: ${serverIp}`;
+              const message = `♻️ eco-bot ♻️ server address is: ${serverIp}`;
               Subzero.sendMessage(from, { text: message }, { quoted: m });
             } else {
               Subzero.sendMessage(from, { text: 'Failed to fetch server IP address.' }, { quoted: m });
@@ -1931,7 +1980,7 @@ break;
         for (let i = 0; i < imagesToSend; i++) {
           let message = {
             image: { url: wallpapers[i].image },
-            footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+            footer: `♻️ eco-bot ♻️`,
             headerType: 4
           };
           Subzero.sendMessage(m.chat, message, { quoted: m });
@@ -1953,7 +2002,7 @@ break;
         let buttonMessage = {
           image: { url: hasil.image },
           caption: `Title : ${hasil.title}\nSource : ${hasil.source}\nMedia Url : ${hasil.image}`,
-          footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          footer: `♻️ eco-bot ♻️`,
           buttons: buttons,
           headerType: 4
         }
@@ -2838,7 +2887,7 @@ break;
         Subzero.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
         let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
-        let teks = ` 「  ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ pm user list  」\n\nTotal ${anu.length} users are using ☃️Subzero-md-v2 in personal chat.`
+        let teks = ` 「  ♻️ eco-bot ♻️ pm user list  」\n\nTotal ${anu.length} users are using ☃️Subzero-md-v2 in personal chat.`
         for (let i of anu) {
           teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
         }
@@ -3761,8 +3810,8 @@ break;
           let buttonMessage = {
             image: BotLogo,
             jpegThumbnail: Thumb,
-            caption: `*「 ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ 」*\n\n_Group Setting Changer tool_:\n\nIf you want to Group close *-group close*\n\nIf you want to Group Oepn *-group open*`,
-            footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+            caption: `*「 ♻️ eco-bot ♻️ 」*\n\n_Group Setting Changer tool_:\n\nIf you want to Group close *-group close*\n\nIf you want to Group Oepn *-group open*`,
+            footer: `♻️ eco-bot ♻️`,
             headerType: 4
           }
           Subzero.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -4528,7 +4577,7 @@ break;
         if (!args[0]) return reply(`Example: ${prefix + command} <query>\nUses : ${prefix + command} anything...`)
         let google = require('google-it')
         google({ 'query': args.join(" ") }).then(res => {
-          let teks = `「 *♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️* 」\n\n*Search term:* ${text}\n\n\n`
+          let teks = `「 *♻️ eco-bot ♻️* 」\n\n*Search term:* ${text}\n\n\n`
           for (let g of res) {
             teks += `*Title* : ${g.title}\n\n`
             teks += `*Description* : ${g.snippet}\n\n`
@@ -4754,7 +4803,7 @@ break;
           Subzero.sendMessage(from, {
             video: { url: args[0] }, caption: "Succes!", contextInfo: {
               externalAdreply: {
-                title: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+                title: `♻️ eco-bot ♻️`,
                 body: `${global.OwnerName}`,
                 thumbnail: BotLogo,
                 mediaType: 2,
@@ -6058,7 +6107,7 @@ _Click the button below to download_`
 ] */
         let button1ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
           /*  footer: `${global.BotName}`,
             buttons: wbuttsss,
             headerType: 4 */
@@ -6083,7 +6132,7 @@ _Click the button below to download_`
    ] */
         let button12ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
           /* footer: `${global.BotName}`,
           buttons: wbuttsss,
           headerType: 4 */
@@ -6105,7 +6154,7 @@ _Click the button below to download_`
           ]  */
         let xx1button3Messages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
           /*  buttons: xxhnekobot,
           headerType: 1 */
         }
@@ -6126,7 +6175,7 @@ _Click the button below to download_`
 ] */
         let button112ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
           /*   footer: `${global.BotName}`,
              buttons: wbuttsss,
              headerType: 4 */
@@ -6175,7 +6224,7 @@ _Click the button below to download_`
         ]
         let buttonssMessage = {
           image: { url: waifud.data.url },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
           footer: `${global.BotName}`,
           buttons: wbutsss,
           headerType: 4
@@ -6540,8 +6589,8 @@ _Click the button below to download_`
         ]
         let wal = {
           image: { url: wallpaper[i].image },
-          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
-          footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          caption: `♻️ eco-bot ♻️`,
+          footer: `♻️ eco-bot ♻️`,
           buttons: walb,
           headerType: 4
         }
@@ -6680,7 +6729,7 @@ _Click the button below to download_`
           ] */
         let button4Messagess = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
+          caption: '♻️ eco-bot ♻️',
           /*buttons: wbuttsssr,
           headerType: 4 */
         }
@@ -6702,7 +6751,7 @@ _Click the button below to download_`
           ] */
         let buttonMessagessf = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
+          caption: '♻️ eco-bot ♻️',
           /*    buttons: wbuttsssr,
               headerType: 2  */
         }
@@ -6724,7 +6773,7 @@ _Click the button below to download_`
           ] */
         let buttonMessagessfgr = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
+          caption: '♻️ eco-bot ♻️',
           /*  buttons: wbuttsssr,
             headerType: 2 */
         }
@@ -6824,181 +6873,34 @@ _Click the button below to download_`
         if (isBanChat) return reply(mess.bangc);
 
         try {
-          await Subzero.sendMessage(from, { react: { text: "❄️", key: m.key } });
+          await Subzero.sendMessage(from, { react: { text: "🤖", key: m.key } });
          const helpMenuText = `
-         
-        *ωεℓcσɱε ${pushname}.* 
+Hi😊,  *${pushname}*
 
-> ᴜᴘᴛɪᴍᴇ       :   *${runtime(process.uptime())}*
-> ᴘʀᴇғɪx         :  *${prefix}*
-> ᴄᴘᴜ ᴜsᴀɢᴇ :  *${totalCpuUsage}%*
-
-- *ʙᴏᴛ ɴᴀᴍᴇ: subzero-md-v3*
-- *ᴏᴡɴᴇʀ ɴᴀᴍᴇ : ${global.OwnerName}*
-- *ᴏᴡɴᴇʀ ɴᴏ̄ :* 263719647303
-- *ᴡᴏʀᴋ ᴛʏᴘᴇ : all chats*
-- *ᴡᴏʀᴋ ᴍᴏᴅᴇ : public*
-
-────────────────
-> ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️
-────────────────
-
-${readmore}
 ╭───────────────߷
 ┃╭─────────────⟢
-┃╏ ➮  *❄️ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ❄️*
+┃╏⟣ 𝗘𝗰𝗼𝗕𝗼𝘁 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗕𝗼𝘁
 ┃╰─────────────⟢
 ┃  
-┃ ⬡  ᴘʟᴀʏ
-┃ ⬡  ᴠɪᴅᴇᴏ
-┃ ⬡  ʏᴛᴍᴘ3
-┃ ⬡  ʏᴛᴍᴘ4
-┃ ⬡  ytvideo
-┃ ⬡  ʟʏʀɪᴄꜱ
-┃ ⬡  ᴍᴏᴠɪᴇ
-┃ ⬡  mediafire
-┃ ⬡  ɢᴏᴏɢʟᴇ
-┃ ⬡  ɢɪᴍᴀɢᴇ
-┃ ⬡  ᴘɪɴᴛᴇʀᴇꜱᴛ
-┃ ⬡  ᴡᴀʟʟᴘᴀᴘᴇʀ
-┃ ⬡  ᴀᴘᴋ
-┃ ⬡  ɪᴍᴀɢᴇ
-┃ ⬡  insta
-┃ ⬡  ꜱᴇᴀʀᴄʜ
-┃ ⬡  searchgc
-┃ ⬡  ꜱᴇᴀʀᴄʜɢᴄ
-┃ ⬡  ᴡɪᴋɪᴍᴇᴅɪᴀ
-┃ ⬡  ʏᴛᴠɪᴅᴇᴏ
-┃ ⬡  ᴍᴇᴅɪᴀꜰɪʀᴇ
-┃ ⬡  ɪɴꜱᴛᴀɢʀᴀᴍ
-┃ ⬡  ꜰᴀᴄᴇʙᴏᴏᴋ
-┃ ⬡  yts
-┃ ⬡  ᴛᴡɪᴛᴛᴇʀ
-┃ ⬡  ᴛɪᴋᴛᴏᴋ
-┃ ⬡  happymod
-╰───────────────߷
-${readmore}
-╭───────────────߷
-┃╭─────────────⟢
-┃╏➮  *❄️ᴏᴡɴᴇʀ❄️*
-┃╰─────────────⟢
-┃  
-┃ ⬡ Addprem
-┃ ⬡ Delprem
-┃ ⬡ Listprem
-┃ ⬡ ᴘᴜʙʟɪᴄ
-┃ ⬡ self
-┃ ⬡ ʀᴇꜱᴛᴀʀᴛ
-┃ ⬡ setppbot
-┃ ⬡ ꜱʟᴇᴇᴘ
-┃ ⬡ ᴊᴏɪɴ
-┃ ⬡ ᴘᴏꜱᴛ
-┃ ⬡ ʟɪꜱᴛɢᴄ
-┃ ⬡ ʟɪꜱᴛᴘᴄ
-┃ ⬡ ʟɪꜱᴛᴏɴʟɪɴᴇ 
-┃ ⬡ ʙʀᴏᴀᴅᴄᴀꜱᴛ
-┃ ⬡ ʙʏᴇ
-┃ ⬡ ʙᴀɴɢʀᴏᴜᴘ 
-┃ ⬡ ʙʟᴏᴄᴋ
-┃ ⬡ ᴜɴʙʟᴏᴄᴋ
-┃ ⬡ ʙᴀɴ ᴀᴅᴅ
-┃ ⬡ ʙᴀɴ ᴅᴇʟ
-┃ ⬡ getcase
+┃ ➮ ${nowtime},  *${pushname}*
+┃ ➮ Todays date is ${kaidate}
+┃ ➮ Alive for ${runtime(process.uptime())}        
 ┃
 ╰───────────────߷
-${readmore}
-╭───────────────߷
-┃╭─────────────⟢
-┃╏➮  *❄️ɢʀᴏᴜᴘ ᴍᴇɴᴜ❄️*
-┃╰─────────────⟢
-┃  
-┃ ⬡ ᴘʀᴏᴍᴏᴛᴇ  
-┃ ⬡ ᴅᴇᴍᴏᴛᴇ  
-┃ ⬡ ɢʀᴏᴜᴘ-ᴇᴠᴇɴᴛ  
-┃ ⬡ ɢʀᴏᴜᴘꜱᴇᴛᴛɪɴɢ
-┃ ⬡ ɢʀᴏᴜᴘʟɪɴᴋ
-┃ ⬡ ɪɴᴠɪᴛᴇ
-┃ ⬡ ᴀᴅᴅ
-┃ ⬡ kick
-┃ ⬡ left
-┃ ⬡ ꜱᴇᴛɴᴀᴍᴇ
-┃ ⬡ ꜱᴇᴛɢᴄᴘᴘ
-┃ ⬡ ꜱᴇᴛᴅᴇꜱᴄ
-┃ ⬡ ʀᴇᴠᴏᴋᴇ
-┃ ⬡ ᴛᴀɢᴀᴅᴍɪɴꜱ
-┃ ⬡ ᴛᴀɢᴀʟʟ
-┃ ⬡ ʜɪᴅᴇᴛᴀɢ
-┃ ⬡ ɴꜱꜰᴡ 
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋɢᴄ 
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴛᴛ
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋʏᴛᴄʜ
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋꜰʙ
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋɪɢ
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴛᴡɪᴛ
-┃ ⬡ ᴀɴᴛɪᴡᴀᴍᴇ     
-┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴀʟʟ
-┃ ⬡ Kickall
-┃ ⬡ Mute
-┃ ⬡ Unmute
-┃
-╰───────────────߷
-${readmore}
-╭───────────────߷
-┃╭─────────────⟢
-┃╏⟣ *ᴄᴏɴᴠᴇʀᴛᴇʀ ᴍᴇɴᴜ*
-┃╰─────────────⟢
-┃  
-┃ ⬡  ꜱᴛɪᴄᴋᴇʀ 
-┃ ⬡  ᴛᴏɪᴍɢ
-┃ ⬡  toimage
-┃ ⬡  ᴛᴏɢɪꜰ
-┃ ⬡  ᴜʀʟ
-┃ ⬡  ᴛᴏᴍᴘ3
-┃ ⬡  ᴛᴏᴀᴜᴅɪᴏ
-┃ ⬡  ᴇᴍᴏᴊɪᴍɪx 
-┃ ⬡  ꜱᴛᴇᴀʟ 
-┃ ⬡  tovv
-┃ ⬡  ʙᴀꜱꜱ  
-┃ ⬡  ᴛᴇᴍᴘᴏ
-┃ ⬡  ʙʟᴏᴡɴ
-┃ ⬡  ʀᴏʙᴏᴛ
-┃ ⬡  ꜱʟᴏᴡ
-┃ ⬡  ꜱQᴜɪʀʀᴇʟ 
-┃ ⬡  ᴅᴇᴇᴘ
-┃ ⬡  ᴇᴀʀʀᴀᴘᴇ
-┃ ⬡  ꜰᴀꜱᴛ 
-┃ ⬡  ꜰᴀᴛ
-┃ ⬡  ɴɪɢʜᴛᴄᴏʀᴇ
-┃ ⬡  ʀᴇᴠᴇʀꜱᴇ  
+╭──────────────⟞
+┆  *EcoBots  Menulist* 
+╰──────────────⟞ 
+╭─────────────── ⧉
 ┃ 
-┃
-╰───────────────߷
-${readmore}
-╭───────────────߷
-┃╭─────────────⟢
-┃╏➮  *ʙᴜɢ ᴍᴇɴᴜ*
-┃╰─────────────⟢
+┃ ➮  1. Pay fees
+┃ ➮  2. Check students balance
+┃ ➮  3. Credit payment system
+┃ ➮  4. About developers
+┃ ➮  5. Exit
+┃ 
 ┃  
-┃ ⬡ ʙᴜɢ1
-┃ ⬡ ʙᴜɢ2
-┃ ⬡ ʙᴜɢ3
-┃ ⬡ ʙᴜɢ4
-┃ ⬡ ʙᴜɢ5
-┃ ⬡ ʙʀᴜᴛᴇᴀᴅᴍɪɴ
-┃ ⬡ ᴄʀᴜsʜɢʀᴏᴜᴘ
-┃ ⬡ ᴛᴇᴍᴘʙᴀɴ
-┃ ⬡ ᴜɴʙᴀɴ
-┃ ⬡ 
-┃ ⬡  ᴍᴏʀᴇ ʙᴜɢs ᴄᴏᴍɪɴ sᴏᴏɴ...
-┃  
-╰───────────────߷  
- 
-─────────────────
-         ∂εѵεℓσρεɾ :
-         
-> ➮ 𝖬 ʀ   𝖥 ʀ ᴀ ɴ ᴋ   ᴏ 𝖥 ᴄ 🚀
-
-➮ *𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝚅3*
+╰─────────────── ⧉
+> ST MARY’S HIGH 
 _________________________`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
@@ -7013,7 +6915,7 @@ _________________________`;
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: " © 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 ❄️ \n https://mucheri-inc.vercel.app"
+                    text: " © EcoBot Your Personal Assistant"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://i.postimg.cc/0jDLndZm/transactional-chatbots.png' } }, { upload: Subzero.waUploadToServer })),
@@ -7027,38 +6929,37 @@ _________________________`;
                     buttons: [
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"owner","id":'owner'}`
+                        "buttonParamsJson": `{"display_text":"Pay","id":'pay'}`
                       },
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"listmenu","id":'listmenu'}`
+                        "buttonParamsJson": `{"display_text":"Check","id":'check'}`
                       },
                       
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"about","id":'about'}`
+                        "buttonParamsJson": `{"display_text":"Credit","id":'credit'}`
                       },
                       
                       
-                      ]
+                      {
+                        "name": "quick_reply",
+                        "buttonParamsJson": `{"display_text":"Exit","id":'exit'}`
+                      },
+                     
+
+                      {
+                        "name": "quick_reply",
+                        "buttonParamsJson": `{"display_text":"About","id":'about'}`
+                      },            
+                    ]
                   })
                 })
               }
             }
           }, {});
-          
-          
-          //Bug menu update//
-         
-         
-         
-
-
-         
-         
-         //Bug End//
 
 
           if (!msg || !msg.key || !msg.key.remoteJid || !msg.key.id) {
