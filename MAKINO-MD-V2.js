@@ -740,11 +740,14 @@ Typed *surrender* to surrender and admited defeat`
     }*/
    const responses = {
 owner: `Hey ${pushname},
-> My owner is Mr Frank, a member of *ZEROCODERS SOCIETY*.
+> My owner is Mr Frank,
+a member of *ZERO-CODERS SOCIETY*.
 
-> You can reach him here: wa.me/263719647303`,
-about: `*SUBZERO-MD-V3 is a bot created by ZeroCoders to take your whatsapp to another  exciting level for more visit mucheri-inc.vercel.app`,
-listmenu: `Mᴇɴᴜ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ....*`,
+> You can reach him here: 
+
+wa.me/263719647303`,
+about: `*SUBZERO-MD-V3* \n A bot created by ZeroCoders to take your whatsapp to another  exciting level for more visit mucheri-inc.vercel.app`,
+listmenu: `*Mᴇɴᴜ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ....😌*`,
 
 
   Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
