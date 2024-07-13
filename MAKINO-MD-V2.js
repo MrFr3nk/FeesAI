@@ -6843,7 +6843,7 @@ _Click the button below to download_`
 - *ᴡᴏʀᴋ ᴍᴏᴅᴇ : public*
 
 ────────────────
-> ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️
+> ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡ ♻️
 ────────────────
 
 ${readmore}
@@ -7019,7 +7019,7 @@ _________________________`;
                     text: " © 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 ❄️ \n https://mucheri-inc.vercel.app"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
-                    ...(await prepareWAMessageMedia({ image: { url: 'https://i.postimg.cc/0jDLndZm/transactional-chatbots.png' } }, { upload: Subzero.waUploadToServer })),
+                    ...(await prepareWAMessageMedia({ image: { url: 'https://i.postimg.cc/NfNpfFX4/Text-Pro-me-1668eb9921d91d.jpg' } }, { upload: Subzero.waUploadToServer })),
 
 
                     title: "                      Functions list",
@@ -7030,18 +7030,18 @@ _________________________`;
                     buttons: [
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"owner","id":'owner'}`
+                        "buttonParamsJson": `{"display_text":"OWNER","id":'owner'}`
                       },
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"listmenu","id":'listmenu'}`
+                        "buttonParamsJson": `{"display_text":"LISTMENU","id":'listmenu'}`
                       },
                       
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"about","id":'about'}`
+                        "buttonParamsJson": `{"display_text":"ABOUT","id":'about'}`
                       },
                       
                       
