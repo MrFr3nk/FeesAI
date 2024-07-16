@@ -6234,7 +6234,7 @@ _Click the button below to download_`
         try {
           await Subzero.sendMessage(from, { react: { text: "🤖", key: m.key } });
          const helpMenuText = `
-```HELLO😊 ``` ,  *${pushname}*
+ հҽllօ 😊  ,  *${pushname}*
 
 ╭───────────────߷
 ┃╭─────────────⟢
