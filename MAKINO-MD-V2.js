@@ -268,7 +268,7 @@ module.exports = Subzero = async (Subzero, m, chatUpdate, store) => {
       "externalAdReply": {
       "showAdAttribution": true,
       "containsAutoReply": true,
-      "title": `♻️ eco-bot ♻️`,
+      "title": `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
       "body": `Pay Fees Easily.`,
       "previewType": "PHOTO",
       "thumbnailUrl": ``,
@@ -458,7 +458,7 @@ module.exports = Subzero = async (Subzero, m, chatUpdate, store) => {
       // ㅤㅤ〄ㅤㅤ〘 Subzero Personal Edition 〙ㅤㅤ〄ㅤㅤㅤㅤ
       // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
 
-      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = '☃️Subzero-md-v2 has been alive since ' + uptimeFormatted;
+      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = '〄 Subzero-md-v2 has been alive since ' + uptimeFormatted;
 
       Subzero.setStatus(status); // Set the status using Subzero.setStatus or your equivalent method
 
@@ -649,68 +649,107 @@ Typed *surrender* to surrender and admited defeat`
       return arr[Math.floor(Math.random() * arr.length)]
     }
 
-
-   const responses = {
-pay:`Hello *${pushname},* Choose one of the following options to pay.\n\n1. Ecocash
-2. Onemoney
-3. Bank\n𝙉.𝘽  To choose an option just reply with number.
-\nFor example 1 for ecocash`,
-
-//ecocash//
-  1:`Hello ${pushname},  you have chosen 𝙀𝙘𝙤𝙘𝙖𝙨𝙝\n\nTo pay withh ecocash enter you account number
-𝙚.𝙜 263719647301`,
-263719647301:`${pushname}, Enter the amount in USD. 
-𝙀.𝙜 100`,
-100: `${pushname},  your 𝙀𝙘𝙤𝙘𝙖𝙨𝙝 Transcation was successful.\n\nYour receipt code is :\n𝗜.𝗗 746721e ( Copy it ) \n
-Please terminate session by taping 𝙚𝙭𝙞𝙩`,
-   exit: `Hey ${pushname}, all sessions have been terminated. 
-How can i help you?`,
-
-//onemoney//
-  2:`To pay with Onemoney enter you account number
-𝙚.𝙜 263719647302`,
-263719647302:`${pushname}, 
-Enter the amount in USD. 
-𝙀.𝙜 120`,
-120: `${pushname}, your 𝙊𝙣𝙚𝙢𝙤𝙣𝙚𝙮 Transcation successful.\n\nYour receipt code is :\n\n𝗜.𝗗 282777B40 copy it\nPlease terminate session by taping 𝙚𝙭𝙞𝙩.`,
-//onemoney//
-
-
-
-//bank//
-3:`To pay with bank please enter your card number`,
-1234567891234567:`Welcome Darrell M, \nplease enter your password to with draw cash`,
-2007:`${pushname},Enter the amount in USD. 
-𝙀.𝙜 130`,
-   130:`${pushname}, Transcation successful.\nPlease terminate session by taping 𝙚𝙭𝙞𝙩.`,
-   //baNk//
-   
- check:`Enter student name`,
- crejinai:`Enter student surname`,
-   makanyisa:`Enter student class`,
-  41:`Crejinai has not paid yet!`,
-   portal:`Enter name of candidate`,
-   darrell:`Enter candidate surname`,
-   mucheri:`Enter student gender`,
-   male:`Maths A\n Physics A\n Chemistry \nComputer Science`,
-   female:`Candidate with supplied details not found`,
-   about:`𝗘𝗰𝗼𝗕𝗼𝘁 is a whatsapp bot developed by Darrell Mucheri & Crejinai Makanyisa to pay school fees online.It uses advanced algorithms to come to a conclusion.\n\n
-For more info visit here: mucheri-inc.vercel.app or
-wa.me/263719647303`,
-   
-
-	   
-  hi: `Hello ${pushname}, I am 𝗘𝗰𝗼𝗕𝗼𝘁. Type !𝗺𝗲𝗻𝘂 to see some functions, Otherwise How can I help you?`,
-  Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
-
-	
-  hello: `Hello ${pushname}, I am 𝗘𝗰𝗼𝗕𝗼𝘁. I can pay fees, check whether student has paid fees & check Results.
+    /*
+  let smallinput = budy.toLowerCase()
+  if (smallinput.includes('hello')) {
+    reply (`Hello ${pushname}, I am ${BotName}. How can i help you?`);
+  } 
   
+  //if (smallinput.includes('hi')) {
+  
+  //   reply (`Hello ${pushname}, I am ${BotName}. How can i help you?`);
+  
+  // } 
+  
+  if (smallinput=='kai') {
+      reply (`My Boss is lost in another Multiverse, and I lost the connection with him...`)
+  }
+  
+  
+  if (smallinput=='runtime') {
+    reply (`Hey ${pushname} my runtime is ${runtime(process.uptime())}\n\nCurrent Time: ${kaitime}\n\nCurrent Date: ${kaidate}`)
+  }
+  
+  
+  
+  if( smallinput.includes('konichiwa') || smallinput.includes('konochiwa') || smallinput.includes('konichiba') || smallinput.includes('salute')){
+    reply (`Konichiwa ${pushname}, I am ${BotName}. How can i help you?`);
+  }
+  
+  
+  if (smallinput=='a17') {
+      reply ('Yes I am Alive 🫂')
+  }
+  
+  if (smallinput=='sasha') {
+    reply ('Only you...🫶🏻')
+  }
+  
+  if (smallinput=='ping') {
+      reply (`Hey ${pushname} Pong ${latensie.toFixed(4)} ms`)
+  }
+  
+  
+  if (smallinput.includes('good morning') || smallinput.includes('ohayo')) {
+    reply (`Good morning to you too ${pushname} ☺️. Have a great day 😇.`);
+  }
+  
+  if (smallinput.includes('good afternoon') || smallinput.includes('konnichiwa')) {
+  
+    reply (`Good afthernoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`);
+  
+  }
+  
+  
+  //if (smallinput.includes('good afthernoon')) {
+   // reply (`Huh ${pushname} 😇. Wishing you an enjoyable afternoon too.`);
+  //   }
+  
+  
+  if (smallinput.includes('good night')) {
+    reply (`Good night to you too ${pushname} 😇. Sleep well and sweet dreams.`);
+  }
+  
+  if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('thank')) {
+    reply (`Mention not ${pushname} 😇. I am a bot afterall.`);
+  }
+  */
 
- For more info type !𝗺𝗲𝗻𝘂.`,
+
+   /* const responses = {
+
+
+      hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
+      kai: `My Boss is lost in another Multiverse, and I lost connection with him...`,
+      runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
+      konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
+      sasha: 'Only you...🫶🏻',
+      ping: `Hey ${pushname}, Pong ${latensie.toFixed(4)} ms`,
+      'good morning': `Good morning to you too ${pushname} ☺️. Have a great day 😇.`,
+      ohayo: `Good morning to you too ${pushname} ☺️. Have a great day 😇.`,
+      'good afternoon': `Good afternoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`,
+      konnichiwa: `Good afternoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`,
+      'good night': `Good night to you too ${pushname} 😇. Sleep well and sweet dreams.`,
+
+    };
+
+    const smallinput = budy.toLowerCase();
+
+    if (responses.hasOwnProperty(smallinput)) {
+      reply(responses[smallinput]);
+    }*/
+   const responses = {
+owner: `Hey ${pushname},
+> My owner is Mr Frank, a member of *ZEROCODERS SOCIETY*.
+
+> You can reach him here: wa.me/263719647303`,
+about: `*SUBZERO-MD-V3 is a bot created by ZeroCoders to take your whatsapp to another  exciting level for more visit mucheri-inc.vercel.app`,
+listmenu: `Mᴇɴᴜ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ....*`,
+
+
   Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
-  mrfrrank: `Darrell My creator is lost in Anime World, and I lost connection with him...`,
-  darrrell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
+  mrfrank: `Darrell My creator is lost in Anime World, and I lost connection with him...`,
+  darrell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   //ping: `Hey ${pushname}, Pong ${latensie.toFixed(4)} ms`,
@@ -726,13 +765,13 @@ wa.me/263719647303`,
 	     'maths': `mathematics is it`,
 	     'geo': `geo it iss`,
 	     'acc': `accounts is it`,
-   OWNER: `wa.me/263719647303`,
+   
 	credit: `Hi ${pushname}, welcome to the credit payment system.\n\n To continue choose one of the options:\nSignup\nLogin`,   
 	   signup: `*SIGNUP*\n\n Please student name to continue`,
 	   mcdonald: `Please enter McDonald's surname`,
 	   muchatuta: `McDonald Muchatuta please enter your ID number`,
 6312345: `New successfully created. Please login to continue`,
-	   login: `Please enter your username`,
+	   login: `Please enter your username`, 
 
 	   
 	   
@@ -828,7 +867,7 @@ const smallinput = budy.toLowerCase();
           await Subzero.sendMessage(from, { react: { text: "❤", key: m.key } });
 
           let { data } = await axios.get('https://api.github.com/repos/MrFr3nk/MAKINO-MD-V2');
-          let teks = `♻️ eco-bot ♻️*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: github.com/anonphoenix007/MAKINO-MD-V2\n\nDon't forget to follow me on *GitHub* and give a ⭐️ to my projects.`;
+          let teks = `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: github.com/anonphoenix007/MAKINO-MD-V2\n\nDon't forget to follow me on *GitHub* and give a ⭐️ to my projects.`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
             viewOnceMessage: {
@@ -846,7 +885,7 @@ const smallinput = budy.toLowerCase();
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     title: "©Subzero➮Mᴀᴋɪɴᴏ2024",
-                    subtitle: "♻️ eco-bot ♻️",
+                    subtitle: "♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️",
                     hasMediaAttachment: false
                   }),
                   nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
@@ -1003,7 +1042,7 @@ case 'tovv': {
         getServerIp()
           .then(serverIp => {
             if (serverIp) {
-              const message = `♻️ eco-bot ♻️ server address is: ${serverIp}`;
+              const message = `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ server address is: ${serverIp}`;
               Subzero.sendMessage(from, { text: message }, { quoted: m });
             } else {
               Subzero.sendMessage(from, { text: 'Failed to fetch server IP address.' }, { quoted: m });
@@ -1248,7 +1287,491 @@ break;
         break;
 
 
-  
+      // economy ...
+      /*case 'daily': case 'claim': case 'reward':
+
+        {
+          if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+          if (isBan) return reply(mess.banned);
+          if (isBanChat) return reply(mess.bangc);
+          if (!m.isGroup) return reply(mess.grouponly)
+
+          Subzero.sendMessage(from, { react: { text: "💰", key: m.key } })
+          let user = m.sender
+          const cara = "cara"
+          const daily = await eco.daily(user, cara, 999); //give 999 for daily, can be changed
+
+          if (daily.cd) return reply(`You already claimed daily for today, come back in ${daily.cdL}`); //cdL is already formatted cooldown Left
+
+          reply(`You claimed 💎${daily.amount} for daily`);
+        }
+        break;
+
+
+      case 'wallet': case 'purse': {
+
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        Subzero.sendMessage(from, { react: { text: "💳", key: m.key } })
+
+        if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+
+        const user = m.sender
+
+        const cara = "cara"
+
+        const balance = await eco.balance(user, cara); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
+
+        await reply(`👛 ${pushname}'s Purse:\n\n_💎${balance.wallet}_`);
+
+      }
+        break;
+
+
+      case 'bank': case 'levee': {
+        if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        Subzero.sendMessage(from, { react: { text: "💳", key: m.key } })
+
+        const user = m.sender
+        const cara = "cara"
+        const balance = await eco.balance(user, cara); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
+        await reply(`🏦 ${pushname}'s Bank:\n\n_💎${balance.bank}/${balance.bankCapacity}_`);
+      }
+        break;
+
+
+      case 'capacity': case 'bankupgrade':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        {
+          Subzero.sendMessage(from, { react: { text: "💲", key: m.key } })
+
+          //if (!isCreator) return reply(mess.botowner)
+          if (!text) return reply(`💴 Bank-capacity 💳\n\n1 | 1000 sp = 💎100\n\n2 | 10000 sp = 💎1000\n\n3 | 100000 sp = 💎10000\n\nExample- ${prefix}capacity 1 OR ${prefix}bankupgrade 1000`)
+          if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+          const user = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
+          const cara = "cara"
+          let value = text.trim();
+          let k = parseInt(value)
+          const balance = await eco.balance(user, cara)
+          switch (value) {
+            case '1000':
+            case '1':
+              if (k > balance.wallet) return reply(`You need to pay 💎100 to increase bank capacity ~ 1000 sp`);
+              const deduct1 = await eco.deduct(user, cara, 100);
+              const add1 = eco.giveCapacity(user, cara, 1000);
+              await reply(`1000 💎diamond storage has been added in ${pushname} bank`)
+            case '10000':
+            case '2':
+              if (k > balance.wallet) return reply(`You need to pay 💎1000 to increase bank capacity ~ 10000 sp`);
+              const deduct2 = await eco.deduct(user, cara, 1000);
+              const add2 = eco.giveCapacity(user, cara, 10000);
+              await reply(`10000 💎diamond storage has been added in ${pushname} bank`)
+            case '100000':
+            case '3':
+              if (k > balance.wallet) return reply(`You need to pay 💎10000 to increase bank capacity ~ 100000 sp`);
+              const deduct3 = await eco.deduct(user, cara, 10000);
+              const add3 = eco.giveCapacity(user, cara, 100000);
+              await reply(`100000 💎diamond storage has been added in ${pushname} bank`)
+          }
+        }
+        break;
+
+
+      case 'deposit': case 'pay-in': {
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        Subzero.sendMessage(from, { react: { text: "📥", key: m.key } })
+
+        if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+        if (!text) return reply("Provide the amount you want to deposit!");
+        const texts = text.trim();
+        const user = m.sender;
+        const cara = 'cara'
+        const deposit = await eco.deposit(user, cara, texts);
+        if (deposit.noten) return reply('You can\'t deposit what you don\'t have.'); //if user states more than whats in his wallet
+        reply(`Successfully Deposited 💎${deposit.amount} to your bank.`)
+      }
+        break;
+
+
+      case 'withdraw': case 'withdrawal': {
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        Subzero.sendMessage(from, { react: { text: "💸", key: m.key } })
+
+        if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+        const user = m.sender
+        if (!text) return reply("Provide the amount you want to withdraw!");
+        const query = text.trim();
+        const cara = 'cara'
+        const withdraw = await eco.withdraw(user, cara, query);
+        if (withdraw.noten) return reply('🏧 Insufficient fund in bank'); //if user states more than whats in his wallet
+        const add = eco.give(user, cara, query);
+        reply(`🏧 ALERT  💎${withdraw.amount} has been added in your wallet.`)
+
+      }
+        break;
+
+
+      case 'rob': case 'attack':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+
+        {
+          Subzero.sendMessage(from, { react: { text: "🔪", key: m.key } })
+          if (!text) return reply(`Use ${prefix}rob @user`)
+          const target =
+            m.quoted && m.mentionedJid.length === 0
+              ? m.quoted.sender
+              : m.mentionedJid[0] || null;
+          if (!target || target === m.sender) return reply("what are you trying to do!")
+          if (m.quoted?.sender && !m.mentionedJid.includes(m.quoted.sender)) m.mentionedJid.push(m.quoted.sender)
+          while (m.mentionedJid.length < 2) m.mentionedJid.push(m.sender)
+          const cara = "cara"
+          const user1 = m.sender
+          const user2 = target
+          const k = 250
+          const balance1 = await eco.balance(user1, cara)
+          const balance2 = await eco.balance(user2, cara)
+          const typ = ['ran', 'rob', 'caught'];
+          const random = typ[Math.floor(Math.random() * typ.length)];
+          if (k > balance1.wallet) return reply(`☹️ You don't have enough money to pay incase you get caught`);
+          if (k > balance2.wallet) return reply(`Sorry, your victim is too poor 🤷🏽‍♂️ let go.`);
+          let tpy = random
+          switch (random) {
+            case 'ran':
+              await reply(`Your victim escaped, be more scaryðŸ˜¤ next time.`)
+          }
+        }
+        break;
+
+
+      case 'transfer': case 'give': {
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+        Subzero.sendMessage(from, { react: { text: "🗿", key: m.key } })
+        let value = text.trim().split(" ");
+        if (value[0] === "") return reply(`Use ${prefix}transfer 100 @user`);
+        const target =
+          m.quoted && m.mentionedJid.length === 0
+            ? m.quoted.sender
+            : m.mentionedJid[0] || null;
+        if (!target || target === m.sender) return reply("what are you trying to do!")
+        if (m.quoted?.sender && !m.mentionedJid.includes(m.quoted.sender)) m.mentionedJid.push(m.quoted.sender)
+        while (m.mentionedJid.length < 2) m.mentionedJid.push(m.sender)
+        const cara = "cara"
+        const user1 = m.sender
+        const user2 = target
+        const word = value[0];
+        const code = value[1];
+        let d = parseInt(word)
+        if (!d) return reply("check your text plz u r using the command in a wrong way")
+
+        const balance = await eco.balance(user1, cara);
+        let a = (balance.wallet) < parseInt(word)
+        //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.	
+        if (a == true) return reply("you dont have sufficient money to transfer");
+
+        const deduct = await eco.deduct(user1, cara, value[0]);
+        const give = await eco.give(user2, cara, value[0]);
+        reply(`📠 Transaction successful`)
+
+      }
+        break;
+
+
+      case 'wealth': case 'ritual': {
+        if (!isCreator) return reply(mess.botowner)
+        var user = m.sender
+        var cara = 'cara'
+        const give1 = eco.give(user, cara, 9999)
+        reply(`You are the wealthiest my *Lord*`)
+      }
+        break;
+
+
+
+      //-------------------------------------------------------------------------------------------------------------------------------------//
+
+
+
+      //gamble
+      case 'gamble': case 'lottery':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+        {
+          //var response = await Subzero.groupInviteCode(from)
+          //var link1 = `https://chat.whatsapp.com/${response}`
+          //var link2 = `https://chat.whatsapp.com/BXQaaeg7utI29OI4RbhdIhl`
+          var texts = text.trim().split(" ");
+          var opp = texts[1];// your value
+          var value = texts[0].toLowerCase();
+          var gg = parseInt(value)
+          var user = m.sender //m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
+          const cara = 'cara'
+          const balance = await eco.balance(user, cara);
+          const g = (balance.wallet) > parseInt(value)
+          const k = 50
+          const a = (k) > parseInt(value)
+          const twice = gg * 2
+          const f = ["up", "right", "left", "down", "up", "left", "down", "right", "up", "down", "right", "left"]
+          const r = f[Math.floor(Math.random() * f.length)]
+          if (isBan) return reply(mess.banned);
+          if (isBanChat) return reply(mess.bangc);
+          if (!m.isGroup) return reply(mess.grouponly)
+          //if (link1 == link2){
+          if (texts[0] === "")
+            return reply(
+              `Example:  ${prefix}gamble 100 direction(left,right,up,down)`
+            );
+          if (!value) return reply("*Please, specify the amount you are gambling with!");
+          if (!opp) return reply("Specify the direction you are betting on!");
+          if (!gg) return reply("Check your text please, You are using the command in a wrong way")
+          if (m.quoted?.sender) m.mentionedJid.push(m.quoted.sender)
+          if (g == false) return reply(`You don't have sufficient 💎 Diamond to gamble with`);
+          if (a == true) return reply(`Sorry ${pushname}, you can only gamble with more than 💎50.`);
+          if (r == opp) {
+            let give = await eco.give(user, cara, twice);
+            reply(`*📉 You won 💎${twice}*`)
+          }
+          else {
+            let deduct = await eco.deduct(user, cara, texts[0]);
+            reply(`*📈 You lost 💎${texts[0]}*`)
+          }
+          //}
+          //else{
+          //reply(`Gambling is allowed only in Casino/Gamble Group,\n\ntype ${prefix}casino to get the group link`)
+          //}
+        }
+        break;*/
+
+
+      //-----------------Slot----------------------
+      /*
+      case'slot': case 'spin': {
+             if (isBan) return reply(mess.banned);
+             if (isBanChat) return reply(mess.bangc);
+             if (!m.isGroup) return reply(mess.grouponly)
+             var today = new Date();
+         if (today.getDay() == 6 || today.getDay() == 5 || today.getDay() == 0){
+             if (text == 'help') return reply(`*1:* Use ${prefix}slot to play\n\n*2:* You must have 💎100 in your wallet\n\n*3:* If you don't have money in wallet then withdraw from your bank\n\n*4:* If you don't have money in your bank too then use economy features to gain money`)
+             if (text == 'money') return reply(`*1:* Small Win --> +💎20\n\n*2:* Small Lose --> -💎20\n\n*3:* Big Win --> +💎100\n\n*4:* Big Lose --> -💎50\n\n*5:* 🎉 JackPot --> +💎1000`)
+             const fruit1= ["🥥", "🍎", "🍇"]
+             const fruit2 = ["🍎", "🍇", "🥥"]  
+             const fruit3 = ["🍇", "🥥", "🍎"]         
+             const fruit4 = ["🍇", "🍎", "🥥"]
+             const lose = ['*You suck at playing this game*\n\n_--> 🍍-🥥-🍎_', '*Totally out of line*\n\n_--> 🥥-🍎-🍍_', '*Are you a newbie?*\n\n_--> 🍎-🍍-🥥_']
+             const smallLose = ['*You cannot harvest coconut 🥥 in a pineapple 🍍 farm*\n\n_--> 🍍>🥥<🍍_', '*Apples and Coconut are not best Combo*\n\n_--> 🍎>🥥<🍎_', '*Coconuts and Apple are not great deal*\n\n_--> 🥥>🍎<🥥_']
+             const won = ['*You harvested a basket of*\n\n_--> 🍎+🍎+🍎_', '*Impressive, You must be a specialist in plucking coconuts*\n\n_--> 🥥+🥥+🥥_', '*Amazing, you are going to be making pineapple juice for the family*\n\n_--> 🍍+🍍+🍍_']             
+             const near = ['*Wow, you were so close to winning pineapples*\n\n_--> 🍎-🍍+🍍_', '*Hmmm, you were so close to winning Apples*\n\n_--> 🍎+🍎-🍍_']          
+             const jack = ['*🥳 JackPot 🤑*\n\n_--> 🍇×🍇×🍇×🍇_', '*🎉 JaaackPooot!*\n\n_--> 🥥×🥥×🥥×🥥_', '*🎊 You Just hit a jackpot worth 💎1000*']
+             const user = m.sender
+             const cara = "cara"
+             const k = 100
+             const balance1  = await eco.balance(user, cara)
+             
+             if (k > balance1.wallet) return reply(`You are going to be spinning on your wallet, you need at least 💎100`);
+             const f1 = fruit1[Math.floor(Math.random() * fruit1.length)];
+             const f2 = fruit2[Math.floor(Math.random() * fruit2.length)];
+             const f3 = fruit3[Math.floor(Math.random() * fruit3.length)];
+             const f4 = fruit4[Math.floor(Math.random() * fruit4.length)];
+             const mess1 = lose[Math.floor(Math.random() * lose.length)];
+             const mess2 = won[Math.floor(Math.random() * won.length)];
+             const mess3 = near[Math.floor(Math.random() * near.length)];
+             const mess4 = jack[Math.floor(Math.random() * jack.length)];
+             const mess5 = smallLose[Math.floor(Math.random() * smallLose.length)];
+             
+             if ((f1 !== f2) && f2 !== f3){
+                const deduct1 = await eco.deduct(user, cara, 50);
+                       reply(`${mess1}\n\n*Big Lose -->* _💎50_`)
+             }
+             else if ((f1 == f2) && f2 == f3){
+                const give1 = await eco.give(user, cara, 100); 
+                      reply(`${mess2}\n*_Big Win -->* _💎100_`)
+             }
+             else if ((f1 == f2) && f2 !== f3){
+                const give2 = await eco.give(user, cara, 20);
+                      reply(`${mess3}\n*Small Win -->* _💎20_`)
+             }
+             else if ((f1 !== f2) && f1 == f3){
+                const deduct2 = await eco.deduct(user, cara, 20);
+                      reply(`${mess5}\n\n*Small Lose -->* _💎20_`)
+             }
+             else if ((f1 !== f2) && f2 == f3){
+                const give4 = eco.give(user, cara, 20); 
+                      reply(`${mess3}\n\n*Small Win -->* _💎20_`)
+             }
+             else if (((f1 == f2) && f2 == f3) && f3 == f4){
+                const give5 = eco.give(user, cara, 1000);
+                     reply(`${mess4}\n\n_🎊 JackPot --> _💎1000_`)
+             }
+             else { 
+                     reply(`Do you understand what you are doing?`)
+             }
+          }
+          else{
+                 reply(`*You can only play this game during weekends*\n\n*🌿 Friday*\n*🎏 Saturday*\n*🎐 Sunday*`)
+          }
+      }
+      break;
+      */
+
+
+/*      case 'slot': case 'spin': {
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        if (!m.isGroup) return reply(mess.grouponly)
+        var today = new Date();
+        if (today.getDay() == 6 || today.getDay() == 5 || today.getDay() == 0) {
+          if (text == 'help') return reply(`*1:* Use ${prefix}slot to play\n\n*2:* You must have 💎100 in your wallet\n\n*3:* If you don't have money in wallet then withdraw from your bank\n\n*4:* If you don't have money in your bank too then use economy features to gain money`)
+          if (text == 'money') return reply(`*1:* Small Win --> +💎20\n\n*2:* Small Lose --> -💎20\n\n*3:* Big Win --> +💎100\n\n*4:* Big Lose --> -💎50\n\n*5:* 🎉 JackPot --> +💎1000`)
+          const fruit1 = ["🥥", "🍎", "🍇"]
+          const fruit2 = ["🍎", "🍇", "🥥"]
+          const fruit3 = ["🍇", "🥥", "🍎"]
+          const fruit4 = ["🍇", "🥥", "🍎"]
+          const lose = ['*You suck at playing this game*\n\n_--> 🍍-🥥-🍎_', '*Totally out of line*\n\n_--> 🥥-🍎-🍍_', '*Are you a newbie?*\n\n_--> 🍎-🍍-🥥_']
+          const smallLose = ['*You cannot harvest coconut 🥥 in a pineapple 🍍 farm*\n\n_--> 🍍>🥥<🍍_', '*Apples and Coconut are not best Combo*\n\n_--> 🍎>🥥<🍎_', '*Coconuts and Apple are not great deal*\n\n_--> 🥥>🍎<🥥_']
+          const won = ['*You harvested a basket of*\n\n_--> 🍎+🍎+🍎_', '*Impressive, You must be a specialist in plucking coconuts*\n\n_--> 🥥+🥥+🥥_', '*Amazing, you are going to be making pineapple juice for the family*\n\n_--> 🍍+🍍+🍍_']
+          const near = ['*Wow, you were so close to winning pineapples*\n\n_--> 🍎-🍍+🍍_', '*Hmmm, you were so close to winning Apples*\n\n_--> 🍎+🍎-🍍_']
+          const jack = ['*🥳 JackPot 🤑*\n\n_--> 🍇×🍇×🍇×🍇_', '*🎉 JaaackPooot!*\n\n_--> 🥥×🥥×🥥×🥥_', '*🎊 You Just hit a jackpot worth 💎1000*']
+          const user = m.sender
+          const cara = "cara"
+          const k = 100
+          const balance1 = await eco.balance(user, cara)
+
+          if (k > balance1.wallet) return reply(`You are going to be spinning on your wallet, you need at least 💎100`);
+          const f1 = fruit1[Math.floor(Math.random() * fruit1.length)];
+          const f2 = fruit2[Math.floor(Math.random() * fruit2.length)];
+          const f3 = fruit3[Math.floor(Math.random() * fruit3.length)];
+          const f4 = fruit4[Math.floor(Math.random() * fruit4.length)];
+          const mess1 = lose[Math.floor(Math.random() * lose.length)];
+          const mess2 = won[Math.floor(Math.random() * won.length)];
+          const mess3 = near[Math.floor(Math.random() * near.length)];
+          const mess4 = jack[Math.floor(Math.random() * jack.length)];
+          const mess5 = smallLose[Math.floor(Math.random() * smallLose.length)];
+
+          if ((f1 !== f2) && f2 !== f3) {
+            const deduct1 = await eco.deduct(user, cara, 50);
+            reply(`${mess1}\n\n*Big Lose -->* _💎50_`)
+          }
+          else if ((f1 == f2) && f2 == f3) {
+            const give1 = await eco.give(user, cara, 100);
+            reply(`${mess2}\n*_Big Win -->* _💎100_`)
+          }
+          else if ((f1 == f2) && f2 !== f3) {
+            const give2 = await eco.give(user, cara, 20);
+            reply(`${mess3}\n*Small Win -->* _💎20_`)
+          }
+          else if ((f1 !== f2) && f1 == f3) {
+            const deduct2 = await eco.deduct(user, cara, 20);
+            reply(`${mess5}\n\n*Small Lose -->* _💎20_`)
+          }
+          else if ((f1 !== f2) && f2 == f3) {
+            const give4 = eco.give(user, cara, 20);
+            reply(`${mess3}\n\n*Small Win -->* _💎20_`)
+          }
+          else if (((f1 == f2) && f2 == f3) && f3 == f4) {
+            const give5 = eco.give(user, cara, 1000);
+            reply(`${mess4}\n\n_🎊 JackPot --> _💎1000_`)
+          }
+          else {
+            reply(`Do you understand what you are doing?`)
+          }
+        }
+        else {
+          reply(`*You can only play this game during weekends*\n\n*🌿 Friday*\n*🎏 Saturday*\n*🎐 Sunday*`)
+        }
+      }
+        break;*/
+
+
+
+      //----------------------------------------------------------------------------------------------------------------------------------------//
+
+
+
+      // case 'banchat': case 'bangroup':{
+      //   if (isBan) return reply(mess.banned);	 			
+      //   if (!isCreator) return reply(mess.botowner)
+      //   if (args[0] === "on") {
+      //   if (isBanChat) return reply('This Group is Already Banned from using me!')
+      //   banchat.push(from)
+      //   reply('This Group has been banned from using me!')
+      //   var groupe = await Subzero.groupMetadata(from)
+      //   var members = groupe['participants']
+      //   var mems = []
+      //   members.map(async adm => {
+      //   mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+      //   })
+      //   Subzero.sendMessage(from, {text: `\`\`\`「 Notice 」\`\`\`\n\nThis group is banned from using bot. So, here nobody can use me anymore!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+      //   } else if (args[0] === "off") {
+      //   if (!isBanChat) return reply('This Group is Already Banned from using me!')
+      //   let off = banchat.indexOf(from)
+      //   banchat.splice(off, 1)
+      //   reply('This Group has been *unbanned* from using me!')
+      //   } else {
+      //     let buttonsntnsfw = [
+      //     { buttonId: `${prefix}bangroup on`, buttonText: { displayText: 'Ban' }, type: 1 },
+      //     { buttonId: `${prefix}bangroup off`, buttonText: { displayText: 'Unban' }, type: 1 }
+      //     ]
+      //     await Subzero.sendButtonText(m.chat, buttonsntnsfw, `Please choose any Button below.\n\n *On / Off*`, `${global.BotName }`, m)
+      //     }
+      //     }
+      //     break;
+
+
+      case 'reaction': case 'react': case 'reactions': case 'r':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        Subzero.sendMessage(from, { react: { text: "❤️", key: m.key } })
+
+        reply(`
+        *╭──────────────── ⧉*
+        *┃〘 *☃️Subzero-md-v2* 〙*
+        *╰──────────────── ⧉!*\n\n
+         bonk
+         cry
+         bully
+         cuddle ${readmore}
+         hug
+         kiss
+         lick
+         pat
+         smug
+         yeet
+         blush
+         smile
+         wave
+         highfive
+         handhold
+         nom
+         glomp
+         bite
+         slap
+         kill
+         happy
+         wink
+         poke
+         dance
+         cringe`) 
+         break;
       case 'limituser': case 'userlimit': case 'limit':
         if (isBan) return reply(mess.banned);
         if (isBanChat) return reply(mess.bangc);
@@ -1408,7 +1931,7 @@ break;
         for (let i = 0; i < imagesToSend; i++) {
           let message = {
             image: { url: wallpapers[i].image },
-            footer: `♻️ eco-bot ♻️`,
+            footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
             headerType: 4
           };
           Subzero.sendMessage(m.chat, message, { quoted: m });
@@ -1430,7 +1953,7 @@ break;
         let buttonMessage = {
           image: { url: hasil.image },
           caption: `Title : ${hasil.title}\nSource : ${hasil.source}\nMedia Url : ${hasil.image}`,
-          footer: `♻️ eco-bot ♻️`,
+          footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           buttons: buttons,
           headerType: 4
         }
@@ -2315,7 +2838,7 @@ break;
         Subzero.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
         let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
-        let teks = ` 「  ♻️ eco-bot ♻️ pm user list  」\n\nTotal ${anu.length} users are using ☃️Subzero-md-v2 in personal chat.`
+        let teks = ` 「  ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ pm user list  」\n\nTotal ${anu.length} users are using ☃️Subzero-md-v2 in personal chat.`
         for (let i of anu) {
           teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
         }
@@ -3238,8 +3761,8 @@ break;
           let buttonMessage = {
             image: BotLogo,
             jpegThumbnail: Thumb,
-            caption: `*「 ♻️ eco-bot ♻️ 」*\n\n_Group Setting Changer tool_:\n\nIf you want to Group close *-group close*\n\nIf you want to Group Oepn *-group open*`,
-            footer: `♻️ eco-bot ♻️`,
+            caption: `*「 ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️ 」*\n\n_Group Setting Changer tool_:\n\nIf you want to Group close *-group close*\n\nIf you want to Group Oepn *-group open*`,
+            footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
             headerType: 4
           }
           Subzero.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -4005,7 +4528,7 @@ break;
         if (!args[0]) return reply(`Example: ${prefix + command} <query>\nUses : ${prefix + command} anything...`)
         let google = require('google-it')
         google({ 'query': args.join(" ") }).then(res => {
-          let teks = `「 *♻️ eco-bot ♻️* 」\n\n*Search term:* ${text}\n\n\n`
+          let teks = `「 *♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️* 」\n\n*Search term:* ${text}\n\n\n`
           for (let g of res) {
             teks += `*Title* : ${g.title}\n\n`
             teks += `*Description* : ${g.snippet}\n\n`
@@ -4102,7 +4625,36 @@ break;
         break;
 
 
+      /*case 'earthquake':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        Subzero.sendMessage(from, { react: { text: "⌛", key: m.key } })
 
+        const tres = await Gempa()
+        var { Waktu, Lintang, Bujur, Magnitude, Kedalaman, Wilayah, Map } = tres.result
+        console.log(Map)
+        const captt = `Time : ${Waktu}\nLatitude : ${Lintang}\nLongitude : ${Bujur}\nRegion : ${Wilayah}`
+        Subzero.sendMessage(from, { image: { url: Map }, caption: captt })
+        break;
+
+
+      case 'covidinfo':
+      case 'covid':
+        if (isBan) return reply(mess.banned);
+        if (isBanChat) return reply(mess.bangc);
+        Subzero.sendMessage(from, { react: { text: "⌛", key: m.key } })
+
+        const c = await covid()
+        var { cases, death, healed } = c[0]
+        Subzero.sendMessage(from, { text: `\nCovid India \n\nCase : ${cases}\n\nDead : ${death}\n\nHealed : ${healed}\n` }, m)
+        break;*/
+
+
+
+      //-----------------------------------------------------------------------------------------------------------------------------------//
+
+
+      //
       case 'igdl':
       case 'instagram':
       case 'insta':
@@ -4139,7 +4691,47 @@ break;
         break;
 
 
- 
+      // ///
+      // case 'igdl': case 'instagramreels': case 'igreels': {
+      // if (isBan) return reply(mess.banned);	 			
+      // if (isBanChat) return reply(mess.bangc);
+      // Subzero.sendMessage(from, { react: { text: "🪄" , key: m.key }})
+      // if (!args[0]) return reply(`Example :\n${prefix + command} https://www.instagram.com/p/CcvJGuxh9VI/?igshid=YmMyMTA2M2Y=`)
+      // try {
+      // hx.igdl(args[0]).then(async(resed) => {
+      // ini_anu = []
+      // anu_list = []
+      // textbv = `「 _Instagram Downloader_ 」\n\nUsername : ${resed.user.username ? resed.user.name : "undefined"}\nFollowers : ${resed.user.followers}`
+      // urut = 1
+      // for (let i = 0; i < resed.medias.length; i++) {
+      // ini_anu.push({
+      // "type": resed.medias[i].fileType,
+      // "url": resed.medias[i].url
+      // })
+      // }
+      // ilod = 1
+      // for (let i of ini_anu) {
+      // anu_list.push({buttonId: `${prefix}ig ${i.type} ${i.url}`, buttonText: {displayText: `Media ${ilod++}`}, type: 1})
+      // }
+      // textbv += `\n\n_Select the media below to download_`
+      // let buttons = anu_list
+      // let buttonMessage = {
+      // image:BotLogo,
+      // jpegThumbnail:Thumb,
+      // caption: textbv,
+      // footer: `${global.BotName}`,
+      // buttons: buttons,
+      // headerType: 4
+      // }
+      // Subzero.sendMessage(from, buttonMessage, {quoted:m})
+      // })
+      // } catch (err) {
+      // reply("An Error Occured!")
+      // }
+      // }
+      // break;
+
+
       case 'ig': {
         if (isBan) return reply(mess.banned);
         if (isBanChat) return reply(mess.bangc);
@@ -4162,7 +4754,7 @@ break;
           Subzero.sendMessage(from, {
             video: { url: args[0] }, caption: "Succes!", contextInfo: {
               externalAdreply: {
-                title: `♻️ eco-bot ♻️`,
+                title: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
                 body: `${global.OwnerName}`,
                 thumbnail: BotLogo,
                 mediaType: 2,
@@ -5466,7 +6058,7 @@ _Click the button below to download_`
 ] */
         let button1ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           /*  footer: `${global.BotName}`,
             buttons: wbuttsss,
             headerType: 4 */
@@ -5491,7 +6083,7 @@ _Click the button below to download_`
    ] */
         let button12ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           /* footer: `${global.BotName}`,
           buttons: wbuttsss,
           headerType: 4 */
@@ -5513,7 +6105,7 @@ _Click the button below to download_`
           ]  */
         let xx1button3Messages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           /*  buttons: xxhnekobot,
           headerType: 1 */
         }
@@ -5534,7 +6126,7 @@ _Click the button below to download_`
 ] */
         let button112ssMessages = {
           image: { url: waifudd.data.url },
-          caption: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           /*   footer: `${global.BotName}`,
              buttons: wbuttsss,
              headerType: 4 */
@@ -5583,7 +6175,7 @@ _Click the button below to download_`
         ]
         let buttonssMessage = {
           image: { url: waifud.data.url },
-          caption: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           footer: `${global.BotName}`,
           buttons: wbutsss,
           headerType: 4
@@ -5948,8 +6540,8 @@ _Click the button below to download_`
         ]
         let wal = {
           image: { url: wallpaper[i].image },
-          caption: `♻️ eco-bot ♻️`,
-          footer: `♻️ eco-bot ♻️`,
+          caption: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
+          footer: `♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️`,
           buttons: walb,
           headerType: 4
         }
@@ -6088,7 +6680,7 @@ _Click the button below to download_`
           ] */
         let button4Messagess = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ eco-bot ♻️',
+          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
           /*buttons: wbuttsssr,
           headerType: 4 */
         }
@@ -6110,7 +6702,7 @@ _Click the button below to download_`
           ] */
         let buttonMessagessf = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ eco-bot ♻️',
+          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
           /*    buttons: wbuttsssr,
               headerType: 2  */
         }
@@ -6132,7 +6724,7 @@ _Click the button below to download_`
           ] */
         let buttonMessagessfgr = {
           image: { url: waifuddd.data.url },
-          caption: '♻️ eco-bot ♻️',
+          caption: '♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️',
           /*  buttons: wbuttsssr,
             headerType: 2 */
         }
@@ -6232,29 +6824,181 @@ _Click the button below to download_`
         if (isBanChat) return reply(mess.bangc);
 
         try {
-          await Subzero.sendMessage(from, { react: { text: "🤖", key: m.key } });
+          await Subzero.sendMessage(from, { react: { text: "❄️", key: m.key } });
          const helpMenuText = `
- հҽllօ 😊  ,  *${pushname}*
+         
+        *ωεℓcσɱε ${pushname}.* 
 
+> ᴜᴘᴛɪᴍᴇ       :   *${runtime(process.uptime())}*
+> ᴘʀᴇғɪx         :  *${prefix}*
+> ᴄᴘᴜ ᴜsᴀɢᴇ :  *${totalCpuUsage}%*
+
+- *ʙᴏᴛ ɴᴀᴍᴇ: subzero-md-v3*
+- *ᴏᴡɴᴇʀ ɴᴀᴍᴇ : ${global.OwnerName}*
+- *ᴏᴡɴᴇʀ ɴᴏ̄ :* 263719647303
+- *ᴡᴏʀᴋ ᴛʏᴘᴇ : all chats*
+- *ᴡᴏʀᴋ ᴍᴏᴅᴇ : public*
+
+────────────────
+> ♻️ ⬡ Zᴇʀᴏ - Mᴅ - 3 ⬡  ♻️
+────────────────
+
+${readmore}
 ╭───────────────߷
 ┃╭─────────────⟢
-┃╏⟣ 𝗘𝗰𝗼𝗕𝗼𝘁 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗕𝗼𝘁
-┃╰─────────────⟢  
-╰───────────────߷
-╭──────────────⟞
-┆  *EcoBots  Menulist* 
-╰──────────────⟞ 
-╭─────────────── ⧉
-┃ 
-┃ ➮  1. Pay fees
-┃ ➮  2. Check students balance
-┃ ➮  3. Credit payment system
-┃ ➮  4. About developers
-┃ ➮  5. Exit
-┃ 
+┃╏ ➮  *❄️ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ❄️*
+┃╰─────────────⟢
 ┃  
-╰─────────────── ⧉
-> ST MARY’S HIGH 
+┃ ⬡  ᴘʟᴀʏ
+┃ ⬡  ᴠɪᴅᴇᴏ
+┃ ⬡  ʏᴛᴍᴘ3
+┃ ⬡  ʏᴛᴍᴘ4
+┃ ⬡  ytvideo
+┃ ⬡  ʟʏʀɪᴄꜱ
+┃ ⬡  ᴍᴏᴠɪᴇ
+┃ ⬡  mediafire
+┃ ⬡  ɢᴏᴏɢʟᴇ
+┃ ⬡  ɢɪᴍᴀɢᴇ
+┃ ⬡  ᴘɪɴᴛᴇʀᴇꜱᴛ
+┃ ⬡  ᴡᴀʟʟᴘᴀᴘᴇʀ
+┃ ⬡  ᴀᴘᴋ
+┃ ⬡  ɪᴍᴀɢᴇ
+┃ ⬡  insta
+┃ ⬡  ꜱᴇᴀʀᴄʜ
+┃ ⬡  searchgc
+┃ ⬡  ꜱᴇᴀʀᴄʜɢᴄ
+┃ ⬡  ᴡɪᴋɪᴍᴇᴅɪᴀ
+┃ ⬡  ʏᴛᴠɪᴅᴇᴏ
+┃ ⬡  ᴍᴇᴅɪᴀꜰɪʀᴇ
+┃ ⬡  ɪɴꜱᴛᴀɢʀᴀᴍ
+┃ ⬡  ꜰᴀᴄᴇʙᴏᴏᴋ
+┃ ⬡  yts
+┃ ⬡  ᴛᴡɪᴛᴛᴇʀ
+┃ ⬡  ᴛɪᴋᴛᴏᴋ
+┃ ⬡  happymod
+╰───────────────߷
+${readmore}
+╭───────────────߷
+┃╭─────────────⟢
+┃╏➮  *❄️ᴏᴡɴᴇʀ❄️*
+┃╰─────────────⟢
+┃  
+┃ ⬡ Addprem
+┃ ⬡ Delprem
+┃ ⬡ Listprem
+┃ ⬡ ᴘᴜʙʟɪᴄ
+┃ ⬡ self
+┃ ⬡ ʀᴇꜱᴛᴀʀᴛ
+┃ ⬡ setppbot
+┃ ⬡ ꜱʟᴇᴇᴘ
+┃ ⬡ ᴊᴏɪɴ
+┃ ⬡ ᴘᴏꜱᴛ
+┃ ⬡ ʟɪꜱᴛɢᴄ
+┃ ⬡ ʟɪꜱᴛᴘᴄ
+┃ ⬡ ʟɪꜱᴛᴏɴʟɪɴᴇ 
+┃ ⬡ ʙʀᴏᴀᴅᴄᴀꜱᴛ
+┃ ⬡ ʙʏᴇ
+┃ ⬡ ʙᴀɴɢʀᴏᴜᴘ 
+┃ ⬡ ʙʟᴏᴄᴋ
+┃ ⬡ ᴜɴʙʟᴏᴄᴋ
+┃ ⬡ ʙᴀɴ ᴀᴅᴅ
+┃ ⬡ ʙᴀɴ ᴅᴇʟ
+┃ ⬡ getcase
+┃
+╰───────────────߷
+${readmore}
+╭───────────────߷
+┃╭─────────────⟢
+┃╏➮  *❄️ɢʀᴏᴜᴘ ᴍᴇɴᴜ❄️*
+┃╰─────────────⟢
+┃  
+┃ ⬡ ᴘʀᴏᴍᴏᴛᴇ  
+┃ ⬡ ᴅᴇᴍᴏᴛᴇ  
+┃ ⬡ ɢʀᴏᴜᴘ-ᴇᴠᴇɴᴛ  
+┃ ⬡ ɢʀᴏᴜᴘꜱᴇᴛᴛɪɴɢ
+┃ ⬡ ɢʀᴏᴜᴘʟɪɴᴋ
+┃ ⬡ ɪɴᴠɪᴛᴇ
+┃ ⬡ ᴀᴅᴅ
+┃ ⬡ kick
+┃ ⬡ left
+┃ ⬡ ꜱᴇᴛɴᴀᴍᴇ
+┃ ⬡ ꜱᴇᴛɢᴄᴘᴘ
+┃ ⬡ ꜱᴇᴛᴅᴇꜱᴄ
+┃ ⬡ ʀᴇᴠᴏᴋᴇ
+┃ ⬡ ᴛᴀɢᴀᴅᴍɪɴꜱ
+┃ ⬡ ᴛᴀɢᴀʟʟ
+┃ ⬡ ʜɪᴅᴇᴛᴀɢ
+┃ ⬡ ɴꜱꜰᴡ 
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋɢᴄ 
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴛᴛ
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋʏᴛᴄʜ
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋꜰʙ
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋɪɢ
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴛᴡɪᴛ
+┃ ⬡ ᴀɴᴛɪᴡᴀᴍᴇ     
+┃ ⬡ ᴀɴᴛɪʟɪɴᴋᴀʟʟ
+┃ ⬡ Kickall
+┃ ⬡ Mute
+┃ ⬡ Unmute
+┃
+╰───────────────߷
+${readmore}
+╭───────────────߷
+┃╭─────────────⟢
+┃╏⟣ *ᴄᴏɴᴠᴇʀᴛᴇʀ ᴍᴇɴᴜ*
+┃╰─────────────⟢
+┃  
+┃ ⬡  ꜱᴛɪᴄᴋᴇʀ 
+┃ ⬡  ᴛᴏɪᴍɢ
+┃ ⬡  toimage
+┃ ⬡  ᴛᴏɢɪꜰ
+┃ ⬡  ᴜʀʟ
+┃ ⬡  ᴛᴏᴍᴘ3
+┃ ⬡  ᴛᴏᴀᴜᴅɪᴏ
+┃ ⬡  ᴇᴍᴏᴊɪᴍɪx 
+┃ ⬡  ꜱᴛᴇᴀʟ 
+┃ ⬡  tovv
+┃ ⬡  ʙᴀꜱꜱ  
+┃ ⬡  ᴛᴇᴍᴘᴏ
+┃ ⬡  ʙʟᴏᴡɴ
+┃ ⬡  ʀᴏʙᴏᴛ
+┃ ⬡  ꜱʟᴏᴡ
+┃ ⬡  ꜱQᴜɪʀʀᴇʟ 
+┃ ⬡  ᴅᴇᴇᴘ
+┃ ⬡  ᴇᴀʀʀᴀᴘᴇ
+┃ ⬡  ꜰᴀꜱᴛ 
+┃ ⬡  ꜰᴀᴛ
+┃ ⬡  ɴɪɢʜᴛᴄᴏʀᴇ
+┃ ⬡  ʀᴇᴠᴇʀꜱᴇ  
+┃ 
+┃
+╰───────────────߷
+${readmore}
+╭───────────────߷
+┃╭─────────────⟢
+┃╏➮  *ʙᴜɢ ᴍᴇɴᴜ*
+┃╰─────────────⟢
+┃  
+┃ ⬡ ʙᴜɢ1
+┃ ⬡ ʙᴜɢ2
+┃ ⬡ ʙᴜɢ3
+┃ ⬡ ʙᴜɢ4
+┃ ⬡ ʙᴜɢ5
+┃ ⬡ ʙʀᴜᴛᴇᴀᴅᴍɪɴ
+┃ ⬡ ᴄʀᴜsʜɢʀᴏᴜᴘ
+┃ ⬡ ᴛᴇᴍᴘʙᴀɴ
+┃ ⬡ ᴜɴʙᴀɴ
+┃ ⬡ 
+┃ ⬡  ᴍᴏʀᴇ ʙᴜɢs ᴄᴏᴍɪɴ sᴏᴏɴ...
+┃  
+╰───────────────߷  
+ 
+─────────────────
+         ∂εѵεℓσρεɾ :
+         
+> ➮ 𝖬 ʀ   𝖥 ʀ ᴀ ɴ ᴋ   ᴏ 𝖥 ᴄ 🚀
+
+➮ *𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝚅3*
 _________________________`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
@@ -6269,7 +7013,7 @@ _________________________`;
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: " © EcoBot Your Personal Assistant"
+                    text: " © 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 ❄️ \n https://mucheri-inc.vercel.app"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://i.postimg.cc/0jDLndZm/transactional-chatbots.png' } }, { upload: Subzero.waUploadToServer })),
@@ -6283,37 +7027,38 @@ _________________________`;
                     buttons: [
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"PAY","id":'pay'}`
+                        "buttonParamsJson": `{"display_text":"owner","id":'owner'}`
                       },
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"CHECK","id":'check'}`
-                      },
-                      
-                      
-                      {
-                        "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"CREDIT","id":'credit'}`
+                        "buttonParamsJson": `{"display_text":"listmenu","id":'listmenu'}`
                       },
                       
                       
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"EXIT","id":'exit'}`
+                        "buttonParamsJson": `{"display_text":"about","id":'about'}`
                       },
-                     
-
-                      {
-                        "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"ABOUT","id":'about'}`
-                      },            
-                    ]
+                      
+                      
+                      ]
                   })
                 })
               }
             }
           }, {});
+          
+          
+          //Bug menu update//
+         
+         
+         
+
+
+         
+         
+         //Bug End//
 
 
           if (!msg || !msg.key || !msg.key.remoteJid || !msg.key.id) {
